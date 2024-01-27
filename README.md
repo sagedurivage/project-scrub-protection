@@ -1,3 +1,6 @@
+# project-scrub-protection
+A safe place to test my scripts so I don't obliterate the team repo
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
